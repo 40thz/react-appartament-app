@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-appartament-app/static/css/main.b642458e.css",
-    "main.js": "/react-appartament-app/static/js/main.32d8891c.js",
+    "main.js": "/react-appartament-app/static/js/main.622cd76e.js",
     "static/media/bg.jpg": "/react-appartament-app/static/media/bg.adbe0696c7c304cab563.jpg",
     "index.html": "/react-appartament-app/index.html",
     "main.b642458e.css.map": "/react-appartament-app/static/css/main.b642458e.css.map",
-    "main.32d8891c.js.map": "/react-appartament-app/static/js/main.32d8891c.js.map"
+    "main.622cd76e.js.map": "/react-appartament-app/static/js/main.622cd76e.js.map"
   },
   "entrypoints": [
     "static/css/main.b642458e.css",
-    "static/js/main.32d8891c.js"
+    "static/js/main.622cd76e.js"
   ]
 }
